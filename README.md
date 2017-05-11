@@ -4,11 +4,10 @@ These are naive implementations from the book as opposed to optimized production
 
 Implemented:
 
-none
+* Insertion Sort
 
 To Be Implemented
 
-* Insertion Sort
 * Merge Sort
 * Quick Sort
 * Radix Sort
