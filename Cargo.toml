@@ -1,0 +1,6 @@
+[package]
+name = "Algorithms-and-Data-Structures-In-Rust"
+version = "0.1.0"
+authors = ["Luke De Mouy"]
+
+[dependencies]
